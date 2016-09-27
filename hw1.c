@@ -1,4 +1,7 @@
 #include <stdio.h>
+// i was having problems doing the tutorial i keep getting an error
+// so i had to manually upload it from the website but i am unsure how to put tags on it manually
+
 
 unsigned get_bit(unsigned x, unsigned n)
 	{
